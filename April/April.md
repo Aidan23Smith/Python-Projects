@@ -8,7 +8,7 @@ I will provide data and some suggestions of where to start, but I want you to lo
 
 Remember, it would be great to have you show the rest of the group your work (this includes what goes wrong) so try and keep some form of document with the best and worst bits.
 
-For you, I have found [data on Broadway theatre](/broadway.csv). This is a lot of data, so I would start small and build up to a larger project.
+For you, I have found [data on Broadway theatre](broadway.csv). This is a lot of data, so I would start small and build up to a larger project.
 
 ## Starting places
 
